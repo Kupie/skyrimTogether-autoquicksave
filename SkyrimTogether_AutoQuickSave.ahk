@@ -1,5 +1,5 @@
 #Persistent
-InputBox, UserInput, Seconds between quicksaves, Please enter how many minutes between hitting quicksaves
+InputBox, UserInput, Minutes between quicksaves, Please enter how many minutes between hitting quicksave (F5)
 if ErrorLevel
     Return
 else
